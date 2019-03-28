@@ -103,6 +103,7 @@ At the first line in function displayInformation, change "A name" to "Shaoxian L
 
 The word "document" represent a document object.
 HTML document becomes a document object, when HTML document gets loaded into a window. The document contains the contents of the page.
+https://www.tutorialspoint.com/javascript/javascript_html_dom.htm
 
 * **What is happening in line 12 (
 		`document.querySelector('#items').innerHTML = document.getElementsByTagName('li').length`
